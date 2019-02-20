@@ -1,0 +1,15 @@
+{
+  "name": "jquery-fluid-typography",
+  "version": "1.0.0",
+  "description": "A super lightweight jQuery plugin to allow an elements font-size to be a percentage of its parent container's width or height. For some reason you still can't do this with CSS in 2019.",
+  "keywords": ["jQuery", "fluid-type", "javascript", "responsive", "responsive text", "responsive font", "font size", "container", "width", "height"],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "obsessedwiththeprocess",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": ">3.0.0"
+  }
+}
