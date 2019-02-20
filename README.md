@@ -1,4 +1,4 @@
-# jQuery Fluid Type
+# jQuery Fluid Typography
 
 A super lightweight jQuery plugin to allow an elements font-size (or any other property) to be a percentage of its parent container's height or width. For some reason, you still can't do this with CSS in 2019.
 
@@ -7,16 +7,16 @@ Feel free to fork or critique.
 ## Installation
 
 ```
-$ npm install --save jquery-fluid-type
+$ npm install --save jquery-fluid-typography
 ```
 
 ## Usage
 
-Just add jQuery and the fluid type plugin to your project.
+Just add jQuery and the fluid typography plugin to your project.
 
 ```
 <script src="http://code.jquery.com/jquery-latest.min.js"></script>
-<script src="jquery-fluid-type/index.js"></script>
+<script src="jquery-fluid-typography/index.js"></script>
 ```
 
 ###$.responsiveFonts(elements) takes an array of objects, each object represents one element that needs scaling, its properties are as follows:
@@ -81,3 +81,5 @@ $(window).resize(function() {
     $.responsiveFonts(elements);
 });
 ```
+
+Link to my [GitHub](https://github.com/MichaelSpencer1995/jquery-fluid-typography).
